@@ -31,7 +31,7 @@ def add_numbers(a, b):
         int or float: The sum of a and b
 
     Example:
-        >>> add_numbers(5, 3)
+        >>> add_numbers(5, 3) 
         8
     """
     return a + b
@@ -78,7 +78,7 @@ def multiply_numbers(a, b):
         42
     """
     return a*b
-    # DELETE the 'pass' statement below and write your code
+    # DELETE the 'pas' statement below and write your code
     pass
 
 
